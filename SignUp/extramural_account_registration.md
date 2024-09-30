@@ -7,8 +7,22 @@
 ||*Login Screen Shot*|
 |----------------|----------------|
 |Button to click|![initial nih login page](/images/signon.png)|
-# Registering for NIH Cloud Lab – Instructions for NIH-Affiliated Researchers
 
+5. If you find your university or organiztion log register with that account
+6. Otherwise create a Login.Gov account and sign on with that.
+7. Instructions for both are below.
+
+  |*Found your university*|*Otherwise Login.Gov*| *Need Help*|
+  |---|---|---|
+  |follow steps for [registering with your university account](#university) below| [registering with Login.gov](#login.gov) below| <ul><li> Stuck or it doesn't seem to work </li><li> Start an email with subject of "Support" </li><li> explain what this issue is </li><li> Send the email to CloudLab@nih.gov</li> </ul>|
+
+
+
+----------
+----------
+---------
+## Original Document Format below
+# Registering for NIH Cloud Lab – Instructions for NIH-Affiliated Researchers
 > [!IMPORTANT]  
 > *If you receive an error message or have any trouble completing these steps, please don't hesitate to contact us at CloudLab@nih.gov. Be sure to add **"Support"** at the beginning of your subject line so that we can properly route your request.*
 
