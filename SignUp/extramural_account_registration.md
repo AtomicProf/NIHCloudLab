@@ -1,9 +1,4 @@
-<style>
-  .subhead {
-    color: grey;
-    font-size: 24px;
-  }
-</style>  
+
 # Instructions for NIH Cloud Lab Registration <br> <span class="subhead">NIH Affiliated Researchers</span>
 1. Open a browser in "Private" or "Cognito" mode
 2. Copy and past this link (https://nih-cloudlab.firebaseapp.com/ )
@@ -11,7 +6,7 @@
 ******
 ||*Login Screen Shot*|
 |----------------|----------------|
-|Button to click|![initial nih login page](/images/1_NIH_login.png)|
+|Button to click|![initial nih login page](/images/signon.png)|
 # Registering for NIH Cloud Lab – Instructions for NIH-Affiliated Researchers
 
 > [!IMPORTANT]  
