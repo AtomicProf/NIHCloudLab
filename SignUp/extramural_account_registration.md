@@ -8,7 +8,7 @@
 |----------------|----------------|
 |Button to click|![initial nih login page](/images/signon.png)|
 
-5. If you find your university or organiztion log register with that account
+5. If you find your university or organiztion register with that account
 6. Otherwise create a Login.Gov account and sign on with that.
 7. Instructions for both are below.
 
