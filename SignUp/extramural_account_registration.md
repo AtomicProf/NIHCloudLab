@@ -12,10 +12,9 @@
 6. Otherwise create a Login.Gov account and sign on with that.
 7. Instructions for both are below.
 
-  |*Found your university*|*Otherwise Login.Gov*| *Need Help*|
+  |*Found your university*|*Otherwise Login.Gov*| :red_circle: *Need Help*|
   |---|---|---|
   |follow steps for [registering with your university account](#university) below| [registering with Login.gov](#login.gov) below| <ul><li> Stuck or it doesn't seem to work </li><li> Start an email with subject of "Support" </li><li> explain what this issue is </li><li> Send the email to CloudLab@nih.gov</li> </ul>|
-
 
 
 ----------
